@@ -1,0 +1,41 @@
+,index,company,symbol,sector,price,StockinINR
+0,1,Apple Inc,AAPL,Information Technology,242.16,20510.95
+1,2,Microsoft Corp,MSFT,Information Technology,429.68,36393.9
+2,3,Amazon Com Inc,AMZN,Consumer Discretionary,212.88,18030.94
+3,4,Nvidia Corp,NVDA,Information Technology,139.7,11832.59
+4,5,Alphabet Inc Class A,GOOGL,Communication,171.3,14509.11
+5,6,Alphabet Inc Class C,GOOG,Communication,172.9,14644.63
+6,7,Meta Platforms Inc Class A,META,Communication,608.84,51568.75
+7,8,Berkshire Hathaway Inc Class B,BRKB,Financials,23500.0,1990450.0
+8,9,Tesla Inc,TSLA,Consumer Discretionary,349.37,29591.64
+9,10,Unitedhealth Group Inc,UNH,Health Care,607.39,51445.93
+10,11,Eli Lilly,LLY,Health Care,814.09,68953.42
+11,12,JPMorgan Chase & Co,JPM,Financials,245.62,20804.01
+12,13,Exxon Mobil Corp,XOM,Energy,118.12,10004.76
+13,14,Johnson & Johnson,JNJ,Health Care,153.09,12966.72
+14,15,Visa Inc Class A,V,Financials,314.37,26627.14
+15,16,Procter & Gamble,PG,Consumer Staples,176.24,14927.53
+16,17,Broadcom Inc,AVGO,Information Technology,166.61,14111.87
+17,18,Mastercard Inc Class A,MA,Financials,527.53,44681.79
+18,19,Home Depot Inc,HD,Consumer Discretionary,428.36,36282.09
+19,20,Chevron Corp,CVX,Energy,162.46,13760.36
+20,21,Merck & Co Inc,MRK,Health Care,102.33,8667.35
+21,22,Abbvie Inc,ABBV,Health Care,182.18,15430.65
+22,23,Pepsico Inc,PEP,Consumer Staples,162.25,13742.58
+23,24,Costco Wholesale Corp,COST,Consumer Staples,979.59,82971.27
+24,25,Adobe Inc,ADBE,Information Technology,516.55,43751.78
+25,26,Coca-Cola,KO,Consumer Staples,63.79,5403.01
+26,27,Cisco Systems Inc,CSCO,Information Technology,59.5,5039.65
+27,28,Walmart Inc,WMT,Consumer Staples,93.48,7917.76
+28,29,Thermo Fisher Scientific Inc,TMO,Health Care,533.33,45173.05
+29,30,McDonalds Corp,MCD,Consumer Discretionary,293.51,24860.3
+30,31,Pfizer Inc,PFE,Health Care,25.64,2171.71
+31,32,Salesforce Inc,CRM,Information Technology,330.01,27951.85
+32,33,Bank Of America Corp,BAC,Financials,46.84,3967.35
+33,34,Accenture Plc Class A,ACN,Information Technology,350.02,29646.69
+34,35,Comcast Corp Class A,CMCSA,Communication,42.97,3639.56
+35,36,Linde Plc,LIN,Materials,457.71,38768.04
+36,37,Netflix Inc,NFLX,Communication,899.82,76214.75
+37,38,Abbott Laboratories,ABT,Health Care,116.23,9844.68
+38,39,Oracle Corp,ORCL,Information Technology,181.92,15408.62
+39,40,Danaher Corp,,,,
